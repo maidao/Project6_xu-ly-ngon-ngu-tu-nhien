@@ -5,9 +5,10 @@ Tuy nhiên đa phần dữ liệu đầu vào cho mô hình thường là dữ l
 
 Trong project này, tôi muốn đề cập đến dữ liệu dạng text cùng với các kỹ thuật đi kèm để xử lý và chuyển đổi text ---> vecto.
 Một số các kỹ thuật được liệt kê bên dưới:
-  1. Word2vec
+  1. Word2vec: https://viblo.asia/p/xay-dung-mo-hinh-khong-gian-vector-cho-tieng-viet-GrLZDXr2Zk0
   2. Bag of Word
   3. Transformer (XL)
   4. BERT
   5. Latent semantic analysis
   6. T - SNE
+
